@@ -7,10 +7,10 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2113.2">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.6px '.AppleSystemUIFontMonospaced'; color: #a0aab8; -webkit-text-stroke: #a0aab8}
-    p.p3 {margin: 0.0px 0.0px 16.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #afb9c5; -webkit-text-stroke: #afb9c5}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.6px '.AppleSystemUIFontMonospaced'; color: #afb9c5; -webkit-text-stroke: #afb9c5}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #afb9c5; -webkit-text-stroke: #afb9c5}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.6px '.AppleSystemUIFontMonospaced'; color: #7d8799; -webkit-text-stroke: #7d8799}
+    p.p3 {margin: 0.0px 0.0px 16.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #8f99a9; -webkit-text-stroke: #8f99a9}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.6px '.AppleSystemUIFontMonospaced'; color: #8f99a9; -webkit-text-stroke: #8f99a9}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Helvetica Neue'; color: #8f99a9; -webkit-text-stroke: #8f99a9}
     span.s1 {font-kerning: none}
     span.s2 {-webkit-text-stroke: 0px #000000}
     ol.ol1 {list-style-type: decimal}
@@ -29,7 +29,7 @@
 <p class="p1"><span class="s1">* Высокая скорость поиска</span></p>
 <p class="p1"><span class="s1">* Низкая цена</span></p>
 <p class="p1"><span class="s1"><br>
-</span></p>
+```</span></p>
 <ol class="ol1">
   <li class="li2"><span class="s2"></span><span class="s1">ООО «Рога и копыта»</span></li>
   <li class="li2"><span class="s2"></span><span class="s1">Издательство «Читый лист»</span></li>
@@ -40,7 +40,7 @@
 <p class="p4"><span class="s1">.selector {</span></p>
 <p class="p4"><span class="s1"><span class="Apple-converted-space">  </span>font-family: "Awesome", Arial, sans-serif;</span></p>
 <p class="p4"><span class="s1"><span class="Apple-converted-space">  </span>color: red;</span></p>
-<p class="p4"><span class="s1">}</span></p>
+<p class="p4"><span class="s1">}```</span></p>
 <p class="p1"><span class="s1"><br>
 </span></p>
 </body>
